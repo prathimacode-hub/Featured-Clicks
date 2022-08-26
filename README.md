@@ -1,6 +1,4 @@
-# Featured-Clicks
- 
- # Welcome to Featured Clicks👋
+# Welcome to Featured Clicks👋
 
 <p align="center">
 <img src=""></a>
