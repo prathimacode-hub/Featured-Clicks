@@ -24,8 +24,8 @@ The listed below mentions all my featured clicks across plethora of opportunitie
 ### In Progress
 
 - [Omdena Local Chapters](https://omdena.com/local-chapters/) as a Chapter Co-Lead for Omdena Hyderabad & Bengaluru Local Chapter
-- [Asean StarUp Awards]()
-- [Northern African StartUp Awards]()
+- [Asean StarUp Awards]() as a Regional Jury Member by Global StartUp Awards
+- [Northern African StartUp Awards]() as a Regional Jury Member by Global StartUp Awards
 
 <h2>📜 Code Of Conduct</h2>
 
