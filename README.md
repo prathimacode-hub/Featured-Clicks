@@ -19,6 +19,7 @@ The listed below mentions all my featured clicks across plethora of opportunitie
 - [Error404 Hackathon](https://404error.club/) as a Hackathon Organizer conducted by Micro Organization
 - [Omdena Core Team](https://omdena.com/team/) as a Partnership Manager - Asia by Omdena community
 - [Regional Ambassador](https://www.hackmakers.com/buildwithaihack2021) for a #BuildWithAI hackathon organized by Hackmakers community
+- [Hack The Mountains](https://www.hackthemountain.tech/judges) as a Judging Panel for Hack The Mountains 3 event
 - [Holiday Hacks 2022](https://www.holidayhacks.co/) as a Hack Judge for the event
 
 ### In Progress
